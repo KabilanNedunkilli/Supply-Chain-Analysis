@@ -16,33 +16,33 @@ This project involves Supply Chain Analysis of raw data using Power BI. It offer
 ## Tech Stack
 
 - **Tool**: Power BI
-- **Data Source**: Suppy Chain - Import Data
+- **Data Source**: Supply Chain - Import Data
 - **Data Transformation**: Power Query for cleaning and preprocessing raw data.
 - **Visualizations**: Bar charts, line graphs, pie charts, and slicers for dynamic data exploration.
 
 ## Prerequisites
 
 - **Power BI Desktop**: Ensure that Power BI Desktop is installed to open and interact with the dashboard.
-- **Data Source**: TheSuppy Chain import data (available in the Power BI file).
+- **Data Source**: The Supply Chain import data (available in the Power BI file).
 
 ## Setup Guide
 
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/YourUsername/Suppy-Chain-Analysis.git
-    cd Suppy-Chain-import-Analysis
+    git clone https://github.com/YourUsername/Supply-Chain-Analysis.git
+    cd Supply-Chain-import-Analysis
     ```
 
-2. Open the Power BI file (`Suppy Chain.pbix`) in Power BI Desktop.
+2. Open the Power BI file (`Supply Chain.pbix`) in Power BI Desktop.
 
-3. Explore the interactive dashboard to gain insights into Suppy Chain's imports, products, suppliers, and shipment performance.
+3. Explore the interactive dashboard to gain insights into Supply Chain's imports, products, suppliers, and shipment performance.
 
 ## Steps & DAX Measures
 
 ### Data Preparation:
 
-- **Import Data**: Import the raw Suppy Chain data from the CSV files.
+- **Import Data**: Import the raw Supply Chain data from the CSV files.
 - **Data Cleaning**: Clean the data using Power Query, ensuring that inconsistencies (such as mismatched supplier names or product descriptions) are corrected.
 
 ### DAX Measures:
