@@ -1,4 +1,5 @@
 # Supply Chain Analysis Power BI Dashboard
+![image](https://github.com/user-attachments/assets/8afb27a7-7362-48b4-bd1f-d837856dca97)
 
 ## Overview
 
